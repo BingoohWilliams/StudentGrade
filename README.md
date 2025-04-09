@@ -1,6 +1,16 @@
+---
+
 # 🎓 Student Average Score Calculator
 
-This Java program calculates the average scores of multiple students across four subjects, determines whether each student passed or failed, and identifies the top student based on the highest average score.
+## Table of Contents
+1. [📖 Description](#-description)
+2. [👩‍💻 Features](#-features)
+3. [🚀 How to Run](#-how-to-run)
+   - [Prerequisites](#prerequisites)
+   - [Steps](#steps)
+4. [📜 License](#-license)
+
+---
 
 ## 🧠 Description
 
@@ -12,7 +22,7 @@ This program:
 
 ---
 
-## 🧑‍💻 Features
+## 👩‍💻 Features
 
 - **Calculates average scores** for students.
 - **Displays pass/fail status** based on a 50% pass mark.
@@ -27,20 +37,30 @@ This program:
 
 Ensure that you have Java installed on your machine.
 
+### Steps
+
 1. **Clone or download the project:**
-
    ```bash
-   git clone https://github.com/yourusername/student-score-calculator.git
-2. Compile the Java files:
-   Open a terminal and navigate to the directory containing your Java files.
-   ```copy and paste
-    javac Main.java Student.java
-3. Run the program:
-   After compiling, run the program with:
-   ```Copy and paste
-    java Main
+   git clone https://github.com/BingoohWilliams/StudentGrade.git
+   ```
 
-## MIT License
+2. **Compile the Java files:**  
+   Open a terminal and navigate to the directory containing your Java files.
+   ```bash
+   javac Main.java Student.java
+   ```
+
+3. **Run the program:**  
+   After compiling, run the program with:
+   ```bash
+   java Main
+   ```
+
+---
+
+## 📜 License
+
+MIT License
 
 Copyright (c) 2025 William Soko
 
@@ -61,3 +81,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
